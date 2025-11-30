@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="RajGitUser/Blue Modern Corporate Staff Profile LinkedIn Banner.png" alt="GitHub Banner" width="800"/>
+</div>
+
 # 💫 About Me:
 AWS DevOps Engineer (3.5+ years) skilled in designing scalable infrastructure on AWS, implementing robust CI/CD pipelines with GitHub Actions, and managing containerized workloads using Docker and Kubernetes. Proficient in Infrastructure as Code (IaC) using Terraform, configuration automation with Ansible, Shell scripting, RedHat Linux, and performance monitoring via Prometheus & Grafana.<br>
 
