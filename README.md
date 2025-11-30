@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="RajGitUser/Blue Modern Corporate Staff Profile LinkedIn Banner.png" alt="GitHub Banner" width="800"/>
+    <img src="C:\devops\daws-86s\repos\RajGitUser\Linkedinbanner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 💫 About Me:
