@@ -26,3 +26,16 @@ AWS DevOps Engineer (3.5+ years) skilled in designing scalable infrastructure on
 [![](https://visitcount.itsvg.in/api?id=RajGitUser&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/RajGitUser/RajGitUser/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/RajGitUser/RajGitUser/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" 
+         src="https://raw.githubusercontent.com/RajGitUser/RajGitUser/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
