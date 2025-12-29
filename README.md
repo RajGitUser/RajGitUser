@@ -40,7 +40,3 @@ AWS DevOps Engineer (3.5+ years) skilled in designing scalable infrastructure on
   </picture>
 </p>
 
-### My GitHub Snake 🐍
-
-![snake gif](https://raw.githubusercontent.com/RajGitUser/RajGitUser/output/github-contribution-grid-snake.svg)
-
